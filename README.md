@@ -1,4 +1,4 @@
-# HTML, CSS & JavaScript Practice Projects
+# HTML, CSS & JavaScript Practice Projects 🚀
 Welcome to my repository where I document my learning journey through a series of practice projects focused on HTML, CSS, and JavaScript, with a special emphasis on the Document Object Model (DOM). This is not a formal course, but rather a personal collection of projects that I've built to enhance my web development skills.
 
 ## About This Repository
